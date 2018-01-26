@@ -27,5 +27,5 @@ Français (maternelle), Anglais (écrit et oral, TOEIC 950+)
 
 
 ## Loisirs
- * Jeu Vidéo, Bande Dessinées et Lecture, Culture et Sciences
+ * Jeu Vidéo, Bandes Dessinées et Lecture, Culture et Sciences
  * Voyages: Turquie, Tunisie, Thaïlande, Espagne
