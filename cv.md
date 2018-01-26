@@ -19,8 +19,8 @@
                             Angular, Bash
 ----------------------------------------------
 
-* Autres
-Git, Postgres, REST API, Cloud Foundry, MQTT (pub/sub), Vim 
+* Autres  
+Git, Postgres, REST API, Cloud Foundry, MQTT (pub/sub), Vim
 
 * Langues Humaines  
 Français (maternelle), Anglais (écrit et oral, TOEIC 950+)  
