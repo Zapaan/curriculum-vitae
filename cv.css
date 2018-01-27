@@ -36,3 +36,13 @@ h3 {
     font-weight: bold;
     margin-bottom: .3em;
 }
+
+a {
+    text-decoration: none;
+    color: #363;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: #484;
+}
