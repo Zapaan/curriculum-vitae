@@ -7,7 +7,7 @@ install:
 README.md: cv.md
 	pandoc -t gfm -o $@ $<
 
-cv.html: cv.md cv.css
+cv.html: cv.md
 	pandoc -t html -s -Mpagetitle=Francky -c cv.css -o $@ $<
 
 clean:
