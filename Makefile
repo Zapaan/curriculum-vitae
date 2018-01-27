@@ -2,7 +2,7 @@
 all: cv.html README.md
 
 install:
-	./install-hooks.sh
+	scripts/install-hooks.sh
 
 README.md: cv.md
 	pandoc -t gfm -o $@ $<
