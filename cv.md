@@ -7,18 +7,13 @@
 
 # Ingénieur Informaticien
 
-## Expérience Professionnelle
-
 ## Compétences
 * Langages de Programmation et Frameworks
+    - Compétent en  
+    Python, Django, Javascript
 
-----------------------------------------------
-   Compétent en             Solide bases en
- ----------------         -------------------
-  Python, Django,           C, C++, HTML, CSS,
-  Javascript                PHP, (PL/)SQL, Java,
-                            Angular, Bash
-----------------------------------------------
+    - Solides bases en  
+    C, C++, HTML, CSS, PHP, (PL/)SQL, Java, Angular, Bash
 
 * Autres  
 Git, Postgres, REST API, Cloud Foundry, MQTT (pub/sub), Vim
@@ -26,6 +21,7 @@ Git, Postgres, REST API, Cloud Foundry, MQTT (pub/sub), Vim
 * Langues Humaines  
 Français (maternelle), Anglais (écrit et oral, TOEIC 950+)  
 
+## Expérience Professionnelle
 
 ## Loisirs
  * Jeu Vidéo, Bandes Dessinées et Lecture, Culture et Sciences
