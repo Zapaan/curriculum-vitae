@@ -6,6 +6,7 @@
 	font: inherit;
 	vertical-align: baseline;
     clear: both;
+	list-style-type: none;
 }
 
 strong {

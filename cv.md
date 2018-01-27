@@ -8,7 +8,7 @@
 # Ingénieur Informaticien
 
 ## Compétences
-* Langages de Programmation et Frameworks
+* Langages de Programmation et Frameworks  
     - Compétent en  
     Python, Django, Javascript
 
