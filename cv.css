@@ -8,6 +8,14 @@
     clear: both;
 }
 
+strong {
+    font-weight: bold;
+}
+
+em {
+    font-style: italic;
+}
+
 body {
     font-family: Helvetica, Verdana, sans-serif;
     color: #333;
