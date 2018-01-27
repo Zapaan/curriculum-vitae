@@ -1,21 +1,3 @@
-* { /* Reset */
-	margin: 0;
-	padding: 0;
-	border: 0;
-	font-size: 100%;
-	font: inherit;
-	vertical-align: baseline;
-    clear: both;
-}
-
-strong {
-    font-weight: bold;
-}
-
-em {
-    font-style: italic;
-}
-
 body {
     font-family: Helvetica, Verdana, sans-serif;
     color: #333;
