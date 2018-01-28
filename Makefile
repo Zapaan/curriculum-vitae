@@ -7,12 +7,13 @@ install:
 README.md: cv.md
 	pandoc -t gfm -o $@ $<
 
-cv.pdf: cv.md pdf.css
-	pandoc -t html -s -Mpagetitle=Francky -c pdf.css -c reset.css -o pdf.html $<
-	wkhtmltopdf pdf.html $@
-	rm pdf.html
+cv.pdf: pdf.html
+	wkhtmltopdf $< $@
 
-cv.html: cv.md
+pdf.html: cv.md pdf.css reset.css
+	pandoc -t html -s -Mpagetitle=Francky -c pdf.css -c reset.css -o $@ $<
+
+cv.html: cv.md cv.css reset.css
 	sed -E 's/(.+)@(.+)\.(.+)/\1 __*at*__ \2 **_dot_** \3/g' $< \
 	| pandoc -t html -s -Mpagetitle=Francky -c reset.css -c cv.css -o $@
 
