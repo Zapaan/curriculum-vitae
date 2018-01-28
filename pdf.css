@@ -45,6 +45,10 @@ strong {
     color: #363;
 }
 
+.indented-p {
+    margin-left: 2em;
+}
+
 #compétences + ul {
     display: block;
     width: 88%;

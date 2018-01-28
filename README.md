@@ -29,16 +29,24 @@ Brétigny sur Orge 91220
 *Avril 2015 - Décembre 2017* : **Ingénieur logiciel** à
 [Hxperience](https://www.hxperience.com)
 
-Conception et développement d’une plateforme IoT en ligne, à destination
-des entreprises, permettant la connexion, la rècolte de données et la
-gestion à distance de différents éauipements industriels ou non. Gestion
-des serveurs et des déploiments.
+<div class="indented-p">
+
+> Conception et développement d’une plateforme IoT en ligne, à
+> destination des entreprises, permettant la connexion, la rècolte de
+> données et la gestion à distance de différents éauipements industriels
+> ou non. Gestion des serveurs et des déploiments.
+
+</div>
 
 *Avril 2011 - Juin 2011* : **Stagiaire développement web** à
 [Cyber’L](https://www.cyber-l.com/)
 
-Dèveloppement et maintenance de plusieurs sites web incluant des
-back-offices personnalisés.
+<div class="indented-p">
+
+> Dèveloppement et maintenance de plusieurs sites web incluant des
+> back-offices personnalisés.
+
+</div>
 
 ## Formation
 
