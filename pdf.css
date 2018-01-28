@@ -36,6 +36,11 @@ a:hover {
     color: #484;
 }
 
+p {
+    margin: .8em 0 1.2em;
+    line-height: 1.3;
+}
+
 #compétences + ul {
     display: block;
     width: 88%;
