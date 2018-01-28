@@ -40,6 +40,15 @@ des serveurs et des déploiments.
 Dèveloppement et maintenance de plusieurs sites web incluant des
 back-offices personnalisés.
 
+## Formation
+
+*2012 - 2015* : Master Pro Informatique (IICI) à l’Université Paris-Sud
+11
+
+*2009 - 2012* : DUT Informatique à l’IUT d’Orsay
+
+*2009* : Baccalauréat S (Scientifique)
+
 ## Loisirs
 
   - Jeu Vidéo, Bandes Dessinées et Lecture, Culture et Sciences
