@@ -26,7 +26,7 @@ Français (maternelle), Anglais (écrit et oral, TOEIC 950+)
 _Avril 2015 - Décembre 2017_ : __Ingénieur logiciel__ à [Hxperience](https://www.hxperience.com)
 
 :::{.indented-p}
-> Conception et développement d'une plateforme IoT en ligne, à destination des entreprises, permettant la connexion, la rècolte de données et la gestion à distance de différents équipements industriels ou non. Gestion des serveurs et des déploiments.
+> Conception et développement d'une plateforme IoT en ligne, à destination des entreprises, permettant la connexion, la récolte de données et la gestion à distance de différents équipements industriels ou non. Gestion des serveurs et des déploiments.
 
 :::
 
