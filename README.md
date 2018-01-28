@@ -33,7 +33,7 @@ Brétigny sur Orge 91220
 
 > Conception et développement d’une plateforme IoT en ligne, à
 > destination des entreprises, permettant la connexion, la rècolte de
-> données et la gestion à distance de différents éauipements industriels
+> données et la gestion à distance de différents équipements industriels
 > ou non. Gestion des serveurs et des déploiments.
 
 </div>
@@ -43,7 +43,7 @@ Brétigny sur Orge 91220
 
 <div class="indented-p">
 
-> Dèveloppement et maintenance de plusieurs sites web incluant des
+> Développement et maintenance de plusieurs sites web incluant des
 > back-offices personnalisés.
 
 </div>

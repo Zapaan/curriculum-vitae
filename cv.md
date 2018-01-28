@@ -26,14 +26,14 @@ Français (maternelle), Anglais (écrit et oral, TOEIC 950+)
 _Avril 2015 - Décembre 2017_ : __Ingénieur logiciel__ à [Hxperience](https://www.hxperience.com)
 
 :::{.indented-p}
-> Conception et développement d'une plateforme IoT en ligne, à destination des entreprises, permettant la connexion, la rècolte de données et la gestion à distance de différents éauipements industriels ou non. Gestion des serveurs et des déploiments.
+> Conception et développement d'une plateforme IoT en ligne, à destination des entreprises, permettant la connexion, la rècolte de données et la gestion à distance de différents équipements industriels ou non. Gestion des serveurs et des déploiments.
 
 :::
 
 _Avril 2011 - Juin 2011_ : __Stagiaire développement web__ à [Cyber'L](https://www.cyber-l.com/)
 
 :::{.indented-p}
-> Dèveloppement et maintenance de plusieurs sites web incluant des back-offices personnalisés.
+> Développement et maintenance de plusieurs sites web incluant des back-offices personnalisés.
 
 :::
 
