@@ -12,10 +12,10 @@ Brétigny sur Orge 91220
 
   - **Langages de Programmation et Frameworks**
     
-      - Compétent en  
+      - **Compétent en**  
         Python, Django, Javascript
     
-      - Solides bases en  
+      - **Solides bases en**  
         C, C++, HTML, CSS, PHP, (PL/)SQL, Java, Angular, Bash
 
   - **Autres**  

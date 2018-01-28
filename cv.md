@@ -8,17 +8,17 @@
 # Ingénieur Informaticien
 
 ## Compétences
-* Langages de Programmation et Frameworks  
-    - Compétent en  
+* __Langages de Programmation et Frameworks__
+    - __Compétent en__  
     Python, Django, Javascript
 
-    - Solides bases en  
+    - __Solides bases en__  
     C, C++, HTML, CSS, PHP, (PL/)SQL, Java, Angular, Bash
 
-* Autres  
+* __Autres__  
 Git, Postgres, REST API, Cloud Foundry, MQTT (pub/sub), Vim
 
-* Langues Humaines  
+* __Langues Humaines__  
 Français (maternelle), Anglais (écrit et oral, TOEIC 950+)  
 
 ## Expérience Professionnelle
