@@ -12,6 +12,9 @@ Brétigny sur Orge 91220
 
 # Ingénieur Informaticien
 
+*à la recherche de projets passionants à réaliser avec une équipe
+passionnée.*
+
 ## Compétences
 
   - **Langages de Programmation et Frameworks**

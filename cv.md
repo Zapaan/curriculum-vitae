@@ -9,6 +9,9 @@
 
 # Ingénieur Informaticien
 
+_à la recherche de projets passionants à réaliser avec une équipe passionnée._
+
+
 ## Compétences
 * __Langages de Programmation et Frameworks__
     - __Compétent en__  
