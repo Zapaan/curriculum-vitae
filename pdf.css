@@ -37,7 +37,6 @@ a {
 }
 
 a:hover {
-    text-decoration: underline;
     color: #484;
 }
 
@@ -61,16 +60,9 @@ strong {
     background: #19BB42;
 }
 
-/* body::before {
-    display: block;
-    content: "";
-    position: absolute;
-    height: 100px;
-    width: 100%;
-    background: #19BB42;
-    margin: -80px;
-    z-index: -1;
-} */
+#header a {
+    color: #141;
+}
 
 #compétences + ul {
     display: block;
