@@ -26,7 +26,7 @@ passionnée.*
         C, C++, HTML, CSS, PHP, (PL/)SQL, Java, Angular, Bash
 
   - **Autres**  
-    Git, Postgres, REST API, Cloud Foundry, MQTT (pub/sub), Vim
+    Git, Postgres, REST API, Cloud Foundry, MQTT (pub/sub), NoSQL, Vim
 
   - **Langues Humaines**  
     Français (maternelle), Anglais (écrit et oral, TOEIC 950+)

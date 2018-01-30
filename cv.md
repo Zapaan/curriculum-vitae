@@ -21,7 +21,7 @@ _à la recherche de projets passionants à réaliser avec une équipe passionné
     C, C++, HTML, CSS, PHP, (PL/)SQL, Java, Angular, Bash
 
 * __Autres__  
-Git, Postgres, REST API, Cloud Foundry, MQTT (pub/sub), Vim
+Git, Postgres, REST API, Cloud Foundry, MQTT (pub/sub), NoSQL, Vim
 
 * __Langues Humaines__  
 Français (maternelle), Anglais (écrit et oral, TOEIC 950+)  
